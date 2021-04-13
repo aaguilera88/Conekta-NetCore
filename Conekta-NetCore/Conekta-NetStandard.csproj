@@ -8,7 +8,13 @@
     <Company>APISOFT Solutions</Company>
     <Description>Implementación de la librería de Conekta para Net Standard</Description>
     <Copyright>APISOFT Solutions</Copyright>
+    <PackageProjectUrl>https://github.com/aaguilera88/Conekta-NetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/aaguilera88/Conekta-NetCore</RepositoryUrl>
   </PropertyGroup>
+
+	<PropertyGroup>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Models\" />
